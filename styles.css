@@ -10,20 +10,21 @@ table, caption, tbody, tfoot, thead, tr, th, td,
 article, aside, canvas, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section, summary,
 time, mark, audio, video {
-    margin: 0px;
+    margin: 8px;
     padding:0;
     border:0;
     outline:0;
     font-size:100%;
     vertical-align:baseline;
     background:transparent;
+    align-content: center;
 }
 
 body {
     line-height:1;
 }
 
-article,aside,details,figcaption,figure,
+body,article,aside,details,figcaption,figure,
 footer,header,hgroup,menu,nav,section {
     display:block;
 }
@@ -184,7 +185,7 @@ header .hire {
 
 /*index*/
 
-.index-banner {
+/*.index-banner {
     width: 100%;
     height: calc(100vh - 100px);
     background-image: url('https://i.ibb.co/gv1kmB9/pexels-photo-2769437.jpg');
@@ -192,7 +193,7 @@ header .hire {
     background-position: center;
     background-size: cover;
     display: table;
-}
+}*/
 
 .vertical-center {
     display: table-cell;
