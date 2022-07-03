@@ -44,13 +44,13 @@ a{
 
 
   .funParagraph {
-    color: green;
+    color: rgb(0, 128, 0);
   }
   p{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 25px;
     text-align: center;
-    color: rgb(225, 10, 121);
+    color: green 
   }
   h2{
     text-align: center;
